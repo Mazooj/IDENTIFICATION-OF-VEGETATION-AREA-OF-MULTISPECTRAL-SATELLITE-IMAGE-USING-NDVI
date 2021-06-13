@@ -1,0 +1,4 @@
+# IDENTIFICATION-OF-VEGETATION-AREA-OF-MULTISPECTRAL-SATELLITE-IMAGE-USING-NDVI
+The goal of this project is to Identify the vegetation area using satellite images and calculating the NDVI. NDVI is a standardized way to measure healthy vegetation. When you have high NDVI values, you have healthier vegetation. When you have low NDVI, you have less or no vegetation. Generally, if you want to see vegetation change over time, then you will have to perform atmospheric correction.
+Main.m is the code need to execute and in main code you need to add the RED BAND and INFRARED BAND of multispectral sattelite image data which you can get from various websites.
+ndvi.m is the code which gets executed when you run main.m. it has all function needs to be worked while calculating the ndvi values and giving the ouput ndvi image and a histogram for the same. 
